@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:padding="16dp"
+	android:background="?attr/colorPrimaryDark">
+
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/txt_item_view"
+		android:padding="8dp"
+		android:text="This is item without child"
+		android:textColor="@android:color/white"
+
+/>
+
+</RelativeLayout>
